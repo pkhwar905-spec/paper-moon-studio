@@ -8,7 +8,7 @@ const defaultProducts = [
     description: 'Cute anime style stickers.',
     price: 3500,
     stock: 15,
-    image: 'my-sticker.png' // တင်ထားသော ပုံအမည် အတိအကျ
+    image: 'cat.png' // တင်ထားသော ပုံအမည် အတိအကျ
   },
   {
     id: 'pack',
@@ -16,7 +16,7 @@ const defaultProducts = [
     description: 'A small pack of cute designs for your favourite things.',
     price: 2500,
     stock: 8,
-    image: 'pack.png' // GitHub ထဲ တင်ထားသော ပုံအမည်
+    image: 'cat.png' // GitHub ထဲ တင်ထားသော ပုံအမည်
   }
 ];
 
