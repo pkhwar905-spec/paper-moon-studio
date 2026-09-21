@@ -949,3 +949,8 @@ loadSettings();
 updateTotal();
 
 renderCart();
+// script.js ရဲ့ အောက်နားတွင် ရှိသော စာကြောင်း
+fetch('https://script.google.com/macros/s/AKfycbxIhcm0UGUsaIlfwnk_KiwpBgITg-XKwqd960RQteXuiIsWsJodGDEqCKt-Mcr0qK4M/exec', {
+  method: 'POST',
+  body: JSON.stringify(order)
+})
