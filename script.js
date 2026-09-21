@@ -3,12 +3,12 @@
 // ၁။ ဒီနေရာမှာ သင့် Sticker ပစ္စည်း စာရင်းနှင့် GitHub ထဲတင်ထားသော ပုံအမည်များကို ပြင်ပေးပါ
 const defaultProducts = [
   {
-    id: 'sheet',
-    name: 'Cute Sticker Sheet',
-    description: 'Pastel mini stickers for everyday decorating.',
-    price: 3000,
-    stock: 12,
-    image: 'sheet.png' // GitHub ထဲ တင်ထားသော ပုံအမည်
+    id: 'sticker-3',
+    name: 'Anime Sticker Pack',
+    description: 'Cute anime style stickers.',
+    price: 3500,
+    stock: 15,
+    image: 'my-sticker.png' // တင်ထားသော ပုံအမည် အတိအကျ
   },
   {
     id: 'pack',
